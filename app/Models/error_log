@@ -1,0 +1,468 @@
+[07-Dec-2023 13:19:29 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Gallery.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Gallery.php on line 8
+[07-Dec-2023 13:19:29 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Order.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Order.php on line 8
+[07-Dec-2023 13:19:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Gallery.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Gallery.php on line 8
+[07-Dec-2023 13:19:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Gallery.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Gallery.php on line 8
+[07-Dec-2023 13:19:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Language.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Language.php on line 7
+[07-Dec-2023 13:19:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Gallery.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Gallery.php on line 8
+[07-Dec-2023 13:19:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/CustomerDetails.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/CustomerDetails.php on line 8
+[07-Dec-2023 13:19:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Order.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Order.php on line 8
+[07-Dec-2023 13:19:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/CustomerDetails.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/CustomerDetails.php on line 8
+[07-Dec-2023 13:19:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Category.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Category.php on line 7
+[07-Dec-2023 13:19:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Language.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Language.php on line 7
+[07-Dec-2023 13:19:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/MerchantPasswordReset.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/MerchantPasswordReset.php on line 7
+[07-Dec-2023 13:19:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Language.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Language.php on line 7
+[07-Dec-2023 13:19:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Category.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Category.php on line 7
+[07-Dec-2023 13:19:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Language.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Language.php on line 7
+[07-Dec-2023 13:19:31 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Order.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Order.php on line 8
+[07-Dec-2023 13:19:31 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/EmailLog.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/EmailLog.php on line 8
+[07-Dec-2023 13:19:31 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/EmailLog.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/EmailLog.php on line 8
+[07-Dec-2023 13:19:31 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/EmailLog.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/EmailLog.php on line 8
+[07-Dec-2023 13:19:31 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Category.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Category.php on line 7
+[07-Dec-2023 13:19:31 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Gateway.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Gateway.php on line 7
+[07-Dec-2023 13:19:31 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/MerchantPasswordReset.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/MerchantPasswordReset.php on line 7
+[07-Dec-2023 13:19:31 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Deposit.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Deposit.php on line 7
+[07-Dec-2023 13:19:31 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Gateway.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Gateway.php on line 7
+[07-Dec-2023 13:19:32 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/MerchantPasswordReset.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/MerchantPasswordReset.php on line 7
+[07-Dec-2023 13:19:32 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Merchant.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Merchant.php on line 9
+[07-Dec-2023 13:19:32 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/AdminNotification.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/AdminNotification.php on line 8
+[07-Dec-2023 13:19:32 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/AdminNotification.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/AdminNotification.php on line 8
+[07-Dec-2023 13:19:32 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Comment.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Comment.php on line 8
+[07-Dec-2023 13:19:32 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Comment.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Comment.php on line 8
+[07-Dec-2023 13:19:32 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/GatewayCurrency.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/GatewayCurrency.php on line 7
+[07-Dec-2023 13:19:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Bid.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Bid.php on line 7
+[07-Dec-2023 13:19:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Bid.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Bid.php on line 7
+[07-Dec-2023 13:19:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Extension.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Extension.php on line 7
+[07-Dec-2023 13:19:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Gateway.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Gateway.php on line 7
+[07-Dec-2023 13:19:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/AdminNotification.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/AdminNotification.php on line 8
+[07-Dec-2023 13:19:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Admin.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Admin.php on line 8
+[07-Dec-2023 13:19:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/EmailTemplate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/EmailTemplate.php on line 7
+[07-Dec-2023 13:19:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Admin.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Admin.php on line 8
+[07-Dec-2023 13:19:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Admin.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Admin.php on line 8
+[07-Dec-2023 13:19:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Bid.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Bid.php on line 7
+[07-Dec-2023 13:19:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Deposit.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Deposit.php on line 7
+[07-Dec-2023 13:19:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Csvmodel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Csvmodel.php on line 8
+[07-Dec-2023 13:19:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Extension.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Extension.php on line 7
+[07-Dec-2023 13:19:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Csvmodel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Csvmodel.php on line 8
+[07-Dec-2023 13:19:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/GeneralSetting.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/GeneralSetting.php on line 7
+[07-Dec-2023 13:19:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Frontend.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Frontend.php on line 7
+[07-Dec-2023 13:19:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/GeneralSetting.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/GeneralSetting.php on line 7
+[07-Dec-2023 13:19:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Extension.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Extension.php on line 7
+[07-Dec-2023 13:19:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Galleryproduct.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Galleryproduct.php on line 8
+[07-Dec-2023 13:19:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/GeneralSetting.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/GeneralSetting.php on line 7
+[07-Dec-2023 13:19:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/AdminPasswordReset.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/AdminPasswordReset.php on line 7
+[07-Dec-2023 13:19:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Advertisement.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Advertisement.php on line 8
+[07-Dec-2023 13:19:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Advertisement.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Advertisement.php on line 8
+[07-Dec-2023 13:19:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/AdminPasswordReset.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/AdminPasswordReset.php on line 7
+[07-Dec-2023 13:19:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/GeneralSetting.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/GeneralSetting.php on line 7
+[07-Dec-2023 13:19:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/GatewayCurrency.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/GatewayCurrency.php on line 7
+[07-Dec-2023 13:19:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Csvmodel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Csvmodel.php on line 8
+[07-Dec-2023 13:19:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Csvmodel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Csvmodel.php on line 8
+[07-Dec-2023 13:19:35 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Galleryproduct.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Galleryproduct.php on line 8
+[07-Dec-2023 13:19:35 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Frontend.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Frontend.php on line 7
+[07-Dec-2023 13:19:35 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Frontend.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Frontend.php on line 7
+[07-Dec-2023 13:19:35 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/AdminPasswordReset.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/AdminPasswordReset.php on line 7
+[07-Dec-2023 13:19:35 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/AdminPasswordReset.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/AdminPasswordReset.php on line 7
+[07-Dec-2023 13:19:36 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Comment.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Comment.php on line 8
+[07-Dec-2023 13:19:36 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Advertisement.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Advertisement.php on line 8
+[07-Dec-2023 13:19:37 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/AdminPasswordReset.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/AdminPasswordReset.php on line 7
+[07-Dec-2023 13:19:38 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Galleryproduct.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Galleryproduct.php on line 8
+[07-Dec-2023 13:19:38 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/AdminPasswordReset.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/AdminPasswordReset.php on line 7
+[07-Dec-2023 13:19:38 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Gateway.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Gateway.php on line 7
+[07-Dec-2023 13:19:38 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/AdminPasswordReset.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/AdminPasswordReset.php on line 7
+[07-Dec-2023 13:19:40 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/MerchantPasswordReset.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/MerchantPasswordReset.php on line 7
+[07-Dec-2023 13:19:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Galleryproduct.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Galleryproduct.php on line 8
+[07-Dec-2023 13:19:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Bid.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Bid.php on line 7
+[07-Dec-2023 13:19:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/CustomerDetails.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/CustomerDetails.php on line 8
+[07-Dec-2023 13:19:52 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/CustomerDetails.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/CustomerDetails.php on line 8
+[07-Dec-2023 13:19:53 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/CustomerDetails.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/CustomerDetails.php on line 8
+[07-Dec-2023 13:19:53 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/EmailLog.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/EmailLog.php on line 8
+[07-Dec-2023 13:19:55 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Bid.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Bid.php on line 7
+[07-Dec-2023 13:19:56 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Bid.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Bid.php on line 7
+[07-Dec-2023 13:19:56 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Order.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Order.php on line 8
+[07-Dec-2023 13:19:56 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Order.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Order.php on line 8
+[07-Dec-2023 13:19:58 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Comment.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Comment.php on line 8
+[07-Dec-2023 13:19:59 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Comment.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Comment.php on line 8
+[07-Dec-2023 13:20:01 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Gateway.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Gateway.php on line 7
+[07-Dec-2023 13:20:03 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Category.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Category.php on line 7
+[07-Dec-2023 13:20:03 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Category.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Category.php on line 7
+[07-Dec-2023 13:20:05 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Language.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Language.php on line 7
+[07-Dec-2023 13:20:05 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Language.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Language.php on line 7
+[07-Dec-2023 13:20:06 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Admin.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Admin.php on line 8
+[07-Dec-2023 13:20:06 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/MerchantPasswordReset.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/MerchantPasswordReset.php on line 7
+[07-Dec-2023 13:20:07 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Admin.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Admin.php on line 8
+[07-Dec-2023 13:20:07 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/MerchantPasswordReset.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/MerchantPasswordReset.php on line 7
+[07-Dec-2023 13:20:08 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Gallery.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Gallery.php on line 8
+[07-Dec-2023 13:20:08 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Gallery.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Gallery.php on line 8
+[07-Dec-2023 13:20:10 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Galleryproduct.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Galleryproduct.php on line 8
+[07-Dec-2023 13:20:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Extension.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Extension.php on line 7
+[07-Dec-2023 13:20:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/GeneralSetting.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/GeneralSetting.php on line 7
+[07-Dec-2023 13:20:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Frontend.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Frontend.php on line 7
+[07-Dec-2023 13:20:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/GeneralSetting.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/GeneralSetting.php on line 7
+[07-Dec-2023 13:20:16 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Deposit.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Deposit.php on line 7
+[07-Dec-2023 13:20:18 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Merchant.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Merchant.php on line 9
+[07-Dec-2023 13:20:18 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Gateway.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Gateway.php on line 7
+[07-Dec-2023 13:20:18 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Gateway.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Gateway.php on line 7
+[07-Dec-2023 13:20:18 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Advertisement.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Advertisement.php on line 8
+[07-Dec-2023 13:20:18 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Advertisement.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Advertisement.php on line 8
+[07-Dec-2023 13:20:19 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Csvmodel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Csvmodel.php on line 8
+[07-Dec-2023 13:20:21 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/EmailLog.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/EmailLog.php on line 8
+[07-Dec-2023 13:20:22 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Csvmodel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Csvmodel.php on line 8
+[07-Dec-2023 13:20:23 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Galleryproduct.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/Galleryproduct.php on line 8
+[07-Dec-2023 13:20:23 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/AdminNotification.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/AdminNotification.php on line 8
+[07-Dec-2023 13:20:23 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/GatewayCurrency.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/GatewayCurrency.php on line 7
+[07-Dec-2023 13:20:24 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/EmailLog.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/EmailLog.php on line 8
+[07-Dec-2023 13:20:29 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/EmailTemplate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/EmailTemplate.php on line 7
+[07-Dec-2023 13:20:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/EmailTemplate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/EmailTemplate.php on line 7
+[07-Dec-2023 13:20:38 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/GatewayCurrency.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/GatewayCurrency.php on line 7
+[07-Dec-2023 13:20:38 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/AdminNotification.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Models/AdminNotification.php on line 8

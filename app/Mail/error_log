@@ -1,0 +1,12 @@
+[07-Dec-2023 13:18:58 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Mail\Mailable" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Mail/SmtpMail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Mail/SmtpMail.php on line 10
+[07-Dec-2023 13:18:58 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Mail\Mailable" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Mail/SmtpMail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Mail/SmtpMail.php on line 10
+[07-Dec-2023 13:19:48 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Mail\Mailable" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Mail/SmtpMail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Mail/SmtpMail.php on line 10

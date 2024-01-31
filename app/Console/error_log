@@ -1,0 +1,28 @@
+[07-Dec-2023 13:18:56 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Console/Kernel.php on line 8
+[07-Dec-2023 13:18:58 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Console/Kernel.php on line 8
+[07-Dec-2023 13:18:58 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Console/Kernel.php on line 8
+[07-Dec-2023 13:18:59 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Console/Kernel.php on line 8
+[07-Dec-2023 13:18:59 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Console/Kernel.php on line 8
+[07-Dec-2023 13:19:06 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Console/Kernel.php on line 8
+[07-Dec-2023 13:19:08 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Console/Kernel.php on line 8

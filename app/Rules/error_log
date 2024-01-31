@@ -1,0 +1,28 @@
+[07-Dec-2023 13:18:51 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Validation\Rule" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Rules/FileTypeValidate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Rules/FileTypeValidate.php on line 7
+[07-Dec-2023 13:18:51 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Validation\Rule" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Rules/FileTypeValidate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Rules/FileTypeValidate.php on line 7
+[07-Dec-2023 13:18:52 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Validation\Rule" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Rules/FileTypeValidate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Rules/FileTypeValidate.php on line 7
+[07-Dec-2023 13:18:52 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Validation\Rule" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Rules/FileTypeValidate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Rules/FileTypeValidate.php on line 7
+[07-Dec-2023 13:18:55 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Validation\Rule" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Rules/FileTypeValidate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Rules/FileTypeValidate.php on line 7
+[07-Dec-2023 13:18:56 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Validation\Rule" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Rules/FileTypeValidate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Rules/FileTypeValidate.php on line 7
+[07-Dec-2023 13:18:56 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Validation\Rule" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Rules/FileTypeValidate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Rules/FileTypeValidate.php on line 7

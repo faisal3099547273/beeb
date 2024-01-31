@@ -1,0 +1,4 @@
+[23-Dec-2023 04:38:38 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/hssofalv/beep.hssolsdemos.com/core/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/routes/api.php on line 7

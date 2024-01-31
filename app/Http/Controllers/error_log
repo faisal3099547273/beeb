@@ -1,0 +1,12 @@
+[21-Oct-2023 05:41:23 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Http/Controllers/SiteController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Http/Controllers/SiteController.php on line 21
+[21-Oct-2023 05:41:28 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Http/Controllers/SiteController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Http/Controllers/SiteController.php on line 21
+[21-Oct-2023 05:41:51 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Http/Controllers/SiteController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Http/Controllers/SiteController.php on line 21

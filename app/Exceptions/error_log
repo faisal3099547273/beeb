@@ -1,0 +1,20 @@
+[07-Dec-2023 13:19:02 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Exceptions\Handler" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Exceptions/Handler.php on line 8
+[07-Dec-2023 13:19:02 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Exceptions\Handler" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Exceptions/Handler.php on line 8
+[07-Dec-2023 13:19:02 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Exceptions\Handler" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Exceptions/Handler.php on line 8
+[07-Dec-2023 13:19:03 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Exceptions\Handler" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Exceptions/Handler.php on line 8
+[07-Dec-2023 13:19:38 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Exceptions\Handler" not found in /home/hssofalv/beep.hssolsdemos.com/core/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hssofalv/beep.hssolsdemos.com/core/app/Exceptions/Handler.php on line 8
